@@ -13,3 +13,4 @@ For this project, I will be writing code that will create a table based an exist
   - Once this data is searched, a table will be generated that will include `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
 
  
+ ### I did not do the optional piece of this homework assignment because I needed to focus on the project. Therefore, there is no folder called UFO-level-2.
